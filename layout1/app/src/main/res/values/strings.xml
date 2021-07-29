@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">myApplication3</string>
+
+    <string name="heading">flat ui kit</string>
+
+    <string name="time">09:30</string>
+
+    <string name="date">July 28, 2021</string>
+
+    <string name="tem">25°</string>
+
+    <string name="city">DHAKA</string>
+
+    <string name="w">WWW</string>
+
+    <string name="nowplay">now playing</string>
+</resources>
